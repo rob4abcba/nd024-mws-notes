@@ -5,9 +5,9 @@
 Objective:
 - Use the picture element to deliver different images based on view port widths.
 - For the horse image, create 3 different versions of the images by cropping instead of shrinking.
-- Breakpoints can be at 500 and 750. 
+- Breakpoints can be at 500 and 750 pixels. 
 - Setup images for 1x and 2x, when viewport is greater than 750px.
-- Add alt texts.
+- Add descriptive alt texts.
 
 My implementation of the project:
 [My responsive blog: picture story](https://genchau.github.io/ND024_Part2_Lesson09-10/)
