@@ -16,7 +16,7 @@ CCP1 L1.1 Your Goals and Motivations
 - [CC Part 1 Lesson 1.4 Services Udacity Provides](ND024_Part1_Lesson01_04.md)
 - [CC Part 1 Lesson 1.5 Conclusion](ND024_Part1_Lesson01_05.md)
 - - -
-#### CC Part 2: Accessible & Responsive Web Apps
+#### Core Curriculum Part 2: Accessible & Responsive Web Apps
 ##### CC Part 2 Lesson 1: Why Responsive?
 - [Part 2 Lesson 1.1 Sites on Mobile](ND024_Part2_Lesson01_01.md)
 - [Part 2 Lesson 1.2 Quiz: Share Your Great & Awful Sites](ND024_Part2_Lesson01_02.md)
@@ -301,8 +301,8 @@ CCP1 L1.1 Your Goals and Motivations
 - [Part 2 Lesson Project.2 Project Instructions & Rubric](ND024_Part2_LessonProject_02.md)
 - [Part 2 Lesson Project.3 Project: Restaurant Reviews App - Stage 1](ND024_Part2_LessonProject_03.md)
 - - -
-#### Part 3: Dynamic & Offline Capable Web Apps
-##### Part 3 Lesson 1: Ajax with XHR
+#### Core Curriculum Part 3: Dynamic & Offline Capable Web Apps
+##### CC Part 3 Lesson 1: Ajax with XHR
 - [Part 3 Lesson 1.1 Course Intro](ND024_Part3_Lesson01_01.md)
 - [Part 3 Lesson 1.2 Client Server Demonstration](ND024_Part3_Lesson01_02.md)
 - [Part 3 Lesson 1.3 Ajax Definition & Examples](ND024_Part3_Lesson01_03.md)
@@ -512,8 +512,8 @@ CCP1 L1.1 Your Goals and Motivations
 - [Part 3 Lesson Project.2 Project Instructions & Rubric](ND024_Part3_LessonProject_02.md)
 - [Part 3 Lesson Project.3 Project: Restaurant Reviews App—Stage2](ND024_Part3_LessonProject_03.md)
 - - -
-#### Part 4: Performant Web Apps
-##### Part 4 Lesson 1: HTTP's Request/Response Cycle
+#### Core Curriculum Part 4: Performant Web Apps
+##### CC Part 4 Lesson 1: HTTP's Request/Response Cycle
 - [Part 4 Lesson 1.1 Intro](ND024_Part4_Lesson01_01.md)
 - [Part 4 Lesson 1.2 HTTP Requests](ND024_Part4_Lesson01_02.md)
 - [Part 4 Lesson 1.3 HTTP Requests 2](ND024_Part4_Lesson01_03.md)
