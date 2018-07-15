@@ -12,5 +12,8 @@ It's very important we use meaningful alt texts when designing our websites.
 - Alt tags should be empty for decorative images.
 - Alt tags should be set on every image just like this pig is set on beign so darn cute.
 
+RL:
+ChromeVox is just a chrome extension so it's really easy to install
+
 - - -
 Next up: [Quiz: Accessibility Promise](ND024_Part2_Lesson09_09.md) or return to [Table Of Contents](./ND024_TableOfContents.md)
