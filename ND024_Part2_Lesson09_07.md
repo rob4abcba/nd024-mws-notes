@@ -5,10 +5,15 @@
 Art direction: Choosing images to suit the viewing context.
 
 The full monty:
-- Combined media queries and source set
+- Combined media queries and source set 
 - To specify images for smaller and larger viewports
 - with different images for different pixel densities.
 
+RL:
+Same effect in Safari
+Picture Fill in the link below the video
+
+MP:
 Example code:
 ```
 <picture>
