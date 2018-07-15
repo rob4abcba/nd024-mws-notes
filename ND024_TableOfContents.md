@@ -1,17 +1,23 @@
+Comparing Mark Down styles:
+Android ND801 Table of Contents
+Core Curriculum Part1: Nanodegree Orientation
+CCP1 Lesson1 Welcome to Your Nanodegree
+CCP1 L1.1 Your Goals and Motivations
+
 # Mobile Web Specialist Nanodegree Program ND024
 - - -
 ## Table of Contents
 - - -
-#### Part 1: Nanodegree Orientation
-##### Part 1 Lesson 1: Nanodegree Orientation
-- [Part 1 Lesson 1.1 Welcome Aboard](ND024_Part1_Lesson01_01.md)
-- [Part 1 Lesson 1.2 Who We Are](ND024_Part1_Lesson01_02.md)
-- [Part 1 Lesson 1.3 What You'll Build](ND024_Part1_Lesson01_03.md)
-- [Part 1 Lesson 1.4 Services Udacity Provides](ND024_Part1_Lesson01_04.md)
-- [Part 1 Lesson 1.5 Conclusion](ND024_Part1_Lesson01_05.md)
+#### Core Curriculum Part 1: Nanodegree Orientation
+##### CC Part 1 Lesson 1: Nanodegree Orientation
+- [CC Part 1 Lesson 1.1 Welcome Aboard](ND024_Part1_Lesson01_01.md)
+- [CC Part 1 Lesson 1.2 Who We Are](ND024_Part1_Lesson01_02.md)
+- [CC Part 1 Lesson 1.3 What You'll Build](ND024_Part1_Lesson01_03.md)
+- [CC Part 1 Lesson 1.4 Services Udacity Provides](ND024_Part1_Lesson01_04.md)
+- [CC Part 1 Lesson 1.5 Conclusion](ND024_Part1_Lesson01_05.md)
 - - -
-#### Part 2: Accessible & Responsive Web Apps
-##### Part 2 Lesson 1: Why Responsive?
+#### CC Part 2: Accessible & Responsive Web Apps
+##### CC Part 2 Lesson 1: Why Responsive?
 - [Part 2 Lesson 1.1 Sites on Mobile](ND024_Part2_Lesson01_01.md)
 - [Part 2 Lesson 1.2 Quiz: Share Your Great & Awful Sites](ND024_Part2_Lesson01_02.md)
 - [Part 2 Lesson 1.3 Intro to Project](ND024_Part2_Lesson01_03.md)
@@ -23,7 +29,7 @@
 - [Part 2 Lesson 1.9 Using dev tools on mobile](ND024_Part2_Lesson01_09.md)
 - [Part 2 Lesson 1.10 Mobile tools for iOS](ND024_Part2_Lesson01_10.md)
 - [Part 2 Lesson 1.11 Lesson Summary](ND024_Part2_Lesson01_11.md)
-##### Part 2 Lesson 2: Starting Small
+##### CC Part 2 Lesson 2: Starting Small
 - [Part 2 Lesson 2.1 Defining the Viewport](ND024_Part2_Lesson02_01.md)
 - [Part 2 Lesson 2.2 Pixels, pixels and moar pixels!](ND024_Part2_Lesson02_02.md)
 - [Part 2 Lesson 2.3 Quiz: Pixelation](ND024_Part2_Lesson02_03.md)
@@ -41,7 +47,7 @@
 - [Part 2 Lesson 2.15 Quiz: Project Part 1](ND024_Part2_Lesson02_15.md)
 - [Part 2 Lesson 2.16 Project Solution - Long](ND024_Part2_Lesson02_16.md)
 - [Part 2 Lesson 2.17 Lesson Summary](ND024_Part2_Lesson02_17.md)
-##### Part 2 Lesson 3: Building Up
+##### CC Part 2 Lesson 3: Building Up
 - [Part 2 Lesson 3.1 Lesson Intro](ND024_Part2_Lesson03_01.md)
 - [Part 2 Lesson 3.2 Basic Media Query Intro](ND024_Part2_Lesson03_02.md)
 - [Part 2 Lesson 3.3 Adding a Basic Media Query](ND024_Part2_Lesson03_03.md)
@@ -63,7 +69,7 @@
 - [Part 2 Lesson 3.19 Deconstructing a Flexbox Layout](ND024_Part2_Lesson03_19.md)
 - [Part 2 Lesson 3.20 Quiz: Deconstructing a Flexbox Layout](ND024_Part2_Lesson03_20.md)
 - [Part 2 Lesson 3.21 Lesson Summary](ND024_Part2_Lesson03_21.md)
-##### Part 2 Lesson 4: Common Responsive Patterns
+##### CC Part 2 Lesson 4: Common Responsive Patterns
 - [Part 2 Lesson 4.1 Intro to Patterns](ND024_Part2_Lesson04_01.md)
 - [Part 2 Lesson 4.2 Pattern - Column Drop](ND024_Part2_Lesson04_02.md)
 - [Part 2 Lesson 4.3 Pattern - Mostly Fluid](ND024_Part2_Lesson04_03.md)
@@ -76,7 +82,7 @@
 - [Part 2 Lesson 4.10 Quiz: Off Canvas Visualization](ND024_Part2_Lesson04_10.md)
 - [Part 2 Lesson 4.11 Quiz: Project Update Part 2](ND024_Part2_Lesson04_11.md)
 - [Part 2 Lesson 4.12 Lesson Summary](ND024_Part2_Lesson04_12.md)
-##### Part 2 Lesson 5: Optimizations
+##### CC Part 2 Lesson 5: Optimizations
 - [Part 2 Lesson 5.1 Lesson Intro](ND024_Part2_Lesson05_01.md)
 - [Part 2 Lesson 5.2 Images](ND024_Part2_Lesson05_02.md)
 - [Part 2 Lesson 5.3 Responsive Tables Intro](ND024_Part2_Lesson05_03.md)
@@ -88,7 +94,7 @@
 - [Part 2 Lesson 5.9 Minor Breakpoints](ND024_Part2_Lesson05_09.md)
 - [Part 2 Lesson 5.10 Quiz: Final Project Updates](ND024_Part2_Lesson05_10.md)
 - [Part 2 Lesson 5.11 Wrap Up](ND024_Part2_Lesson05_11.md)
-##### Part 2 Lesson 6: Getting Up and Running
+##### CC Part 2 Lesson 6: Getting Up and Running
 - [Part 2 Lesson 6.1 Course Introduction](ND024_Part2_Lesson06_01.md)
 - [Part 2 Lesson 6.2 Why Responsive Images?](ND024_Part2_Lesson06_02.md)
 - [Part 2 Lesson 6.3 Intro to Project](ND024_Part2_Lesson06_03.md)
@@ -97,7 +103,7 @@
 - [Part 2 Lesson 6.6 Using dev tools on mobile](ND024_Part2_Lesson06_06.md)
 - [Part 2 Lesson 6.7 Mobile tools for iOS](ND024_Part2_Lesson06_07.md)
 - [Part 2 Lesson 6.8 Lesson Wrap Up](ND024_Part2_Lesson06_08.md)
-##### Part 2 Lesson 7: Units, Formats, Environments
+##### CC Part 2 Lesson 7: Units, Formats, Environments
 - [Part 2 Lesson 7.1 Quiz: Sizing Intro](ND024_Part2_Lesson07_01.md)
 - [Part 2 Lesson 7.2 All about Bits and Pixels](ND024_Part2_Lesson07_02.md)
 - [Part 2 Lesson 7.3 Requests and Revenue](ND024_Part2_Lesson07_03.md)
@@ -115,7 +121,7 @@
 - [Part 2 Lesson 7.15 Image Compression](ND024_Part2_Lesson07_15.md)
 - [Part 2 Lesson 7.16 Quiz: Project Part 1](ND024_Part2_Lesson07_16.md)
 - [Part 2 Lesson 7.17 Lesson Summary](ND024_Part2_Lesson07_17.md)
-##### Part 2 Lesson 8: Images with Markup
+##### CC Part 2 Lesson 8: Images with Markup
 - [Part 2 Lesson 8.1 Performance](ND024_Part2_Lesson08_01.md)
 - [Part 2 Lesson 8.2 Text Problems](ND024_Part2_Lesson08_02.md)
 - [Part 2 Lesson 8.3 CSS Techniques](ND024_Part2_Lesson08_03.md)
@@ -131,7 +137,7 @@
 - [Part 2 Lesson 8.13 Quiz: Strategy Quiz 4](ND024_Part2_Lesson08_13.md)
 - [Part 2 Lesson 8.14 Quiz: Project Part 2](ND024_Part2_Lesson08_14.md)
 - [Part 2 Lesson 8.15 Lesson Summary](ND024_Part2_Lesson08_15.md)
-##### Part 2 Lesson 9: Full Responsiveness
+##### CC Part 2 Lesson 9: Full Responsiveness
 - [Part 2 Lesson 9.1 Responding to Screen Capability & View](ND024_Part2_Lesson09_01.md)
 - [Part 2 Lesson 9.2 srcset](ND024_Part2_Lesson09_02.md)
 - [Part 2 Lesson 9.3 Sizes Attribute](ND024_Part2_Lesson09_03.md)
@@ -143,7 +149,7 @@
 - [Part 2 Lesson 9.9 Quiz: Accessibility Promise](ND024_Part2_Lesson09_09.md)
 - [Part 2 Lesson 9.10 Quiz: Project Part 3](ND024_Part2_Lesson09_10.md)
 - [Part 2 Lesson 9.11 Course Conclusion](ND024_Part2_Lesson09_11.md)
-##### Part 2 Lesson 10: Accessibility Overview
+##### CC Part 2 Lesson 10: Accessibility Overview
 - [Part 2 Lesson 10.1 Introduction to Accessibility](ND024_Part2_Lesson10_01.md)
 - [Part 2 Lesson 10.2 What is Accessibility](ND024_Part2_Lesson10_02.md)
 - [Part 2 Lesson 10.3 Understanding the diversity of users](ND024_Part2_Lesson10_03.md)
