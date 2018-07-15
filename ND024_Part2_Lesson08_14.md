@@ -1,11 +1,13 @@
 # Lesson 8.14 Quiz: Project Part 2
 
 Project Objective:
-- Replace smiley face png with a unicode.
+- Replace smiley face png with a unicode smiley face.
 - Add social media links with ref="#"
 - Can use footer tag for the social media links.
-- Replace flourish with svg.
+- Replace the unnecessary flourish PNG with something simpler, like svg or a simple CSS border.
 - Add a responsive logo.
+
+
 
 My implementation of the project [here](https://genchau.github.io/ND024_Part2_Lesson08_14/).
 
