@@ -4,7 +4,7 @@
 
 To run this example you'll need to use a local server. The easiest way to do so is to use the Web Server for Chrome extension.
 
-Make sure your settings look like this:
+Make sure your settings look like this: 
 
 Chrome 200 OK settings
 
