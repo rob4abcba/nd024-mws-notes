@@ -4,7 +4,7 @@ This lesson, we'll be covering focus.
 
 In a nutshell, focus refers to the control on the computer screen that receives input from the keyboard and from the clipboard. We are familiar with text fields and clicking on it, that's what focus is.
 
-Focus is critical for __**keyboard only**__ input and for _**accessibility**_ inputs.
+Focus is critical for 	__***keyboard only***__ input and for _**accessibility**_ inputs.
 
 WebAIM Section 2.1.1: all page functionality should
 be available using the keyboard.
