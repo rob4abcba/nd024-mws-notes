@@ -12,7 +12,7 @@ Put `single backticks` to shade in the text as shown.
 <summary>Text between summary tags looks like this</summary>
 <p>Open a new paragraph here
 
-```
+```javascript
   Enclosing something in 3 backticks looks like this. RadioGroup.prototype.handleKeyDown = function(e) {
     switch(e.keyCode) {
 
