@@ -6,14 +6,23 @@
 
 Put `single backticks` to shade in the text as shown.
 
-- A single dash then space "- " before a line ends up looking like this.
+Put ``double backticks`` to shade in the text as shown.
+
+Put ```triple backticks``` to shade in the text as shown.
+
+- A `doubl dash then `space "- " before a line ends up looking like this.
 
 <Text between angle brackets looks like this>
+  
 <summary>Text between summary tags looks like this</summary>
-<p>Open a new paragraph here
 
+<p>
+  Open a new paragraph here
+
+Enclose a block of javascript code with 3 backticks then the word "javascript" to get colors like below: 
+  
 ```javascript
-  Enclosing something in 3 backticks looks like this. RadioGroup.prototype.handleKeyDown = function(e) {
+  RadioGroup.prototype.handleKeyDown = function(e) {
     switch(e.keyCode) {
 
       case VK_UP:
